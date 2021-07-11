@@ -2,12 +2,14 @@
 
 ## Краткое описание
 
-<10.07.2021> - <10.07.2021> было проведено функциональное тестирование приложения Credit Card Number Validator.
+10.07.2021 - 11.07.2021 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+* https://github.com/annaanikina/Credit-Card-Number-Validator-testing-/issues/1
+* https://github.com/annaanikina/Credit-Card-Number-Validator-testing-/issues/2
+* https://github.com/annaanikina/Credit-Card-Number-Validator-testing-/issues/3
 
 
 ## Описание процесса тестирования
